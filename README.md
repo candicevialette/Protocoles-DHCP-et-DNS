@@ -89,4 +89,4 @@ Ce projet est sous licence MIT. Consultez le fichier [LICENSE](LICENSE) pour plu
 
 ### 🗓 **Date de Création**
 
-Septembre 2024
+Novembre 2024
