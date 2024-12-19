@@ -24,15 +24,23 @@ Le protocole **DNS** traduit les noms de domaine (ex : `www.example.com`) en adr
 
 ## 📂 **Contenu du Dépôt**
 
-- **`documentation/`** : Guides et tutoriels sur DHCP et DNS.
-  - `Bloc1_sem1-atelier_03_Protocole_DNS_DHCP_VIALETTE_Candice.docx` : Document de référence pour l'atelier.
+```
+decouverte-packet-tracer/
+|
+├── Documents/
+|   ├── Bloc1_sem1-atelier_03_Protocole...
+|   └── Bloc1_sem1-atelier_03_Protocole...
+|
+├── Réseaux/
+|   ├── Bloc1_sem1-atelier_03_Activite...
+|   ├── Bloc1_sem1-atelier_03_Activite...
+|   └── Bloc1_sem1-atelier_03_Activite...
+|
+├── image/
+|   └── background.png
+|
+└── README.md
 
-- **`packet_tracer/`** : Fichiers Packet Tracer au format `.pka` pour les simulations.
-  - `Bloc1_sem1-atelier_03_Activite-2-PT_dhcp1_VIALETTE_Candice.pkt` : Scénario de configuration DHCP et DNS.
-  
-- **`README.md`** : Guide du dépôt.
-
----
 
 ## ⚙️ **Prérequis**
 
