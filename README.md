@@ -25,18 +25,18 @@ Le protocole **DNS** traduit les noms de domaine (ex : `www.example.com`) en adr
 ## 📂 **Contenu du Dépôt**
 
 ```
-decouverte-packet-tracer/
+📂decouverte-packet-tracer/
 |
-├── Documents/
+├── 📂Documents/
 |   ├── Bloc1_sem1-atelier_03_Protocole...
 |   └── Bloc1_sem1-atelier_03_Protocole...
 |
-├── Réseaux/
+├──📂** Réseaux/
 |   ├── Bloc1_sem1-atelier_03_Activite...
 |   ├── Bloc1_sem1-atelier_03_Activite...
 |   └── Bloc1_sem1-atelier_03_Activite...
 |
-├── image/
+├──📂 image/
 |   └── background.png
 |
 └── README.md
